@@ -21,3 +21,5 @@ python train_without_summary.py
 
 - [Convolutional Neural Networks for Sentence Classification](http://arxiv.org/abs/1408.5882)
 - [A Sensitivity Analysis of (and Practitioners' Guide to) Convolutional Neural Networks for Sentence Classification](http://arxiv.org/abs/1510.03820)
+
+https://www.jianshu.com/p/4fbc4939509f 里面有attention的实现
